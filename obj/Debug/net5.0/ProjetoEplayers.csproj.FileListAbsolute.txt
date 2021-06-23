@@ -39,3 +39,5 @@ E:\HD\SENAI\ProjetoEplayers\obj\Debug\net5.0\ref\ProjetoEplayers.dll
 E:\HD\SENAI\ProjetoEplayers\obj\Debug\net5.0\ProjetoEplayers.pdb
 E:\HD\SENAI\ProjetoEplayers\obj\Debug\net5.0\ProjetoEplayers.genruntimeconfig.cache
 E:\HD\SENAI\ProjetoEplayers\obj\Debug\net5.0\ProjetoEplayers.csproj.CopyComplete
+E:\HD\SENAI\ProjetoEplayers\obj\Debug\net5.0\Razor\Views\Jogador\Index.cshtml.g.cs
+E:\HD\SENAI\ProjetoEplayers\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
